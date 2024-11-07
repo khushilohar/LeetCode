@@ -9,4 +9,12 @@ Here is my all solved Leetcode questions
 | [0175-combine-two-tables](https://github.com/khushilohar/LeetCode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/khushilohar/LeetCode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/khushilohar/LeetCode/tree/master/0196-delete-duplicate-emails) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/khushilohar/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/khushilohar/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
